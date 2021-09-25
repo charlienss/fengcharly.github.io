@@ -120,4 +120,3 @@ mvn -Dfile.encoding=UTF-8 smart-doc:adoc
 
 [![hBzmkj.png](https://z3.ax1x.com/2021/09/01/hBzmkj.png)](https://imgtu.com/i/hBzmkj)
 
-##### 
