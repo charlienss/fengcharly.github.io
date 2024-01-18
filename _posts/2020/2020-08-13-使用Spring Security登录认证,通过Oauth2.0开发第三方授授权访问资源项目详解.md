@@ -305,7 +305,7 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 #### 5.GitHub项目地址:
 
 ```java
-https://github.com/fengcharly/spring-boot-oauth2
+https://github.com/charlienss/spring-boot-oauth2
 ```
 
  

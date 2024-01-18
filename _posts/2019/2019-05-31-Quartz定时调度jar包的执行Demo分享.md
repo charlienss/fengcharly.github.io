@@ -196,4 +196,4 @@ public class DynamicJob implements Job {
 
 (喜欢记得点星支持哦,谢谢!)
 
-[https://github.com/fengcharly/quartz-jpa](https://github.com/fengcharly/quartz-jpa)
+[https://github.com/charlienss/quartz-jpa](https://github.com/charlienss/quartz-jpa)

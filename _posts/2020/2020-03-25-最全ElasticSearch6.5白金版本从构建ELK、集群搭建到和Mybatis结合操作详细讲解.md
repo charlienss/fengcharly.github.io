@@ -574,7 +574,7 @@ public class EsDruidDataSourceConfig {
 相关Git项目地址如下:
 
 ```java
-https://github.com/fengcharly/elasticsearch-sql-jdbc
+https://github.com/charlienss/elasticsearch-sql-jdbc
 ```
 
 #### 5.部署Kibana
