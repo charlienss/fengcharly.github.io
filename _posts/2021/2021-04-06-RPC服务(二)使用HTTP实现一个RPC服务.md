@@ -306,7 +306,7 @@ public final class RpcClient {
 #### 4. 项目地址:
 
 ```java
-https://github.com/fengcharly/rpc-demo.git
+https://github.com/charlienss/rpc-demo.git
 ```
 
 

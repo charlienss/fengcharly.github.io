@@ -179,4 +179,4 @@ authorizeConfigManager.config(http.authorizeRequests());
 
 (喜欢记得点星支持哦,谢谢!)
 
-[https://github.com/fengcharly/spring-security-oauth2.0](https://github.com/fengcharly/spring-security-oauth2.0)
+[https://github.com/charlienss/spring-security-oauth2.0](https://github.com/charlienss/spring-security-oauth2.0)
